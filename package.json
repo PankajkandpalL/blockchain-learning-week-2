@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "blockchain-learning-week-2",
+  "description": "Solidity\r --------",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "exercise8.js",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
